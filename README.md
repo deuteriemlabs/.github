@@ -1,7 +1,19 @@
-## ⚛️ Deuterium Labs  
-**Code smarter, not harder.**
+<br />
+<div align="center">
 
-Welcome to DeuteriumLabs — a playground for practical, remixable tools that streamline developer workflows. We build CLI utilities, modular SDKs, and contributor-friendly assets designed for clarity, speed, and zero fluff.
+  <img src="https://avatars.githubusercontent.com/u/240323728?s=400&u=0994ac61af0cfa98fe25a79ff759cd268b9469c2&v=4" alt="Logo" width="200" height="200" />
+
+  <p align="center" style="margin-top: 12px;">
+    <strong><small>CODE SMARTER, NOT HARDER</small></strong>
+  </p>
+  
+</div>
+<br />
+
+# ⚛️ Deuterium Labs  
+<img src="https://readme-typing-svg.demolab.com?font=sans-serif&size=14&height=20&pause=1000&color=dodgerblue&lines=Code+smarter,+not+harder" />
+
+Welcome to **DeuteriumLabs** — a playground for practical, remixable tools that streamline developer workflows. We build CLI utilities, modular SDKs, and contributor-friendly assets designed for clarity, speed, and zero fluff.
 
 ### 🧩 What we build
 - ⚙️ **Tools that devs actually use** — no bloat, just flow  
